@@ -1,3 +1,19 @@
 body {
     background-color: turquoise;
 }
+.logo {
+    width: 360px;
+    text-align: center;
+}
+.bloque1 img {
+    width: 200px;
+}
+.bloque2 img {
+    width: 200px;
+}
+.bloque1 {
+    display: inline-block;
+}
+.bloque2 {
+    display: inline-block;
+}
