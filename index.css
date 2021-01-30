@@ -1,19 +1,95 @@
 body {
-    background-color: turquoise;
+    background-color: white;
+}
+.menu {
+    margin-left: 0px;
+    background-color: #6DCCAA;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+    line-height: 54px;
+}
+.menu a {
+    text-decoration: none;
+    color: white;
+}
+.menu .row {
+    border-top: 1px solid white;
 }
 .logo {
-    width: 360px;
-    text-align: center;
+    margin-left: 0px;
+    width: auto;
+    background-color: #97E0C8;
+    height: 64px;
 }
+.banner {
+    background-color:  #97E0C8;
+    line-height: 54px;
+}
+.banner img {
+    width: 100%;
+    margin-top: 8px;
+}
+
 .bloque1 img {
-    width: 200px;
-}
-.bloque2 img {
-    width: 200px;
+    width: 190px;
 }
 .bloque1 {
-    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    text-align: right;
 }
-.bloque2 {
-    display: inline-block;
+.fotocrowd {
+    text-align: left;
+    margin-top: 30px;
 }
+i {
+    width: 30px;
+    height: 30px;
+    text-align: center;    
+    border-radius: 100%;
+    background-color: white;
+    padding: 5px;
+    margin: 30px;
+}
+#campanas {
+    margin-bottom: 10px;
+    color: black;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    font-size: 15px;
+    float: left;
+}
+footer{
+    background-color: #a8adac;
+    height: 55px;
+    padding: 3px;
+    font-size: 15px;
+}
+
+/* body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    padding: 5px;
+    width: auto;
+    background-color: #97E0C8;
+}
+.nav li {
+    background-color: #6DCCAA;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+    line-height: 64px;
+    
+    
+}
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+*/
